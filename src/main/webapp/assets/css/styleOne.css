@@ -1,0 +1,50 @@
+#home .container .formbox {
+	padding-top: 20px;
+}
+
+.addresses {
+	background-color: #eadada00;
+	border-top: #eadada00;
+	border-right: #eadada00;
+	border-left: #eadada00;
+	border-bottom: 2px solid #c69502;
+	color: black;
+	width: 80%;
+}
+
+select.addresses {
+	color: #9c9c9d;
+}
+
+.addresses option {
+	color: #000;
+}
+
+.addressesOne {
+	background-color: #eadada00;
+	border-top: #eadada00;
+	border-right: #eadada00;
+	border-left: #eadada00;
+	border-bottom: #eadada00;
+	color: #fff;
+	width: 80%;
+}
+
+.button {
+	background: -moz-linear-gradient(top, black, red); /* Green */
+	border: none;
+	color: red;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 50%;
+}
+
+.button4 {
+	border-radius: 12px;
+	color : red
+}
